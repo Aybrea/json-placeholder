@@ -13,7 +13,7 @@
   },
   "order": [
     {
-      "type": 1,
+      "anotherType": 1,
       "status": 2,
       "amount": "1000.00",
       "coin": "USDT",
@@ -21,7 +21,7 @@
       "createTime": 1709193600
     },
     {
-      "type": 2,
+      "anotherType": 2,
       "status": 1,
       "amount": "500.50",
       "coin": "USDT",
@@ -29,7 +29,7 @@
       "createTime": 1709280000
     },
     {
-      "type": 1,
+      "anotherType": 1,
       "status": 3,
       "amount": "2000.00",
       "coin": "USDT",
@@ -37,7 +37,7 @@
       "createTime": 1709366400
     },
     {
-      "type": 2,
+      "anotherType": 2,
       "status": 2,
       "amount": "750.25",
       "coin": "USDT",
@@ -45,7 +45,7 @@
       "createTime": 1709452800
     },
     {
-      "type": 1,
+      "anotherType": 1,
       "status": 1,
       "amount": "1500.75",
       "coin": "USDT",
